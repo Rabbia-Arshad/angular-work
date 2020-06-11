@@ -1,0 +1,32 @@
+#why{
+	width:60%;
+	margin:0 auto;
+	text-align:center;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+#why h1:after{
+	content:" ";
+	height:2px;
+	width:100px;
+	display:block;
+	background:orange;
+	margin:20px auto;
+}
+#why:after{
+	content:" ";
+	display:block;
+	clear:both;
+}
+.same{
+	display:inline-block;
+	text-align:justify;
+	width:22.5%;
+	margin-left:1%;
+	margin-right:1%;
+}
+#featers:after{
+	content:" ";
+	display:block;
+	clear:both;
+}
